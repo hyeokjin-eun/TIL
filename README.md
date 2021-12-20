@@ -13,6 +13,7 @@
 ## DB
 
 - [Index](https://github.com/hyeokjin-eun/TIL/blob/main/DB/index.md)
+- [Transaction](https://github.com/hyeokjin-eun/TIL/blob/main/DB/transaction.md)
 ## OOP
 ## Java
 ## Spring
