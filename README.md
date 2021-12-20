@@ -7,8 +7,6 @@
 - [OOP](#OOP)
 - [Java](#Java)
 - [Spring](#Spring)
-<br>
-<br>
 
 ## 네트워크
 ## 운영체제
